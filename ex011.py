@@ -4,4 +4,4 @@ l = float(input("Qual a largura da parede em metros? "))
 ar = (l * a)
 tinta = (ar / 2)
 
-print(f"A área da parede é de {ar}m², portanto, será necessário {tinta} latas de tinta para pinta-lá")
+print(f"A área da parede é de {ar}m², portanto, será necessário {tinta} litros de tinta para pinta-lá")
